@@ -1,2 +1,2 @@
 # random-quotes
-quote changer
+changes quote with the click of a button
